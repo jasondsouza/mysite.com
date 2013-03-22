@@ -40,3 +40,6 @@ projects[module_filter][version] = 1.7
 
 projects[coder][subdir] = contrib
 projects[coder][version] = 2.0-beta2
+
+projects[derivicon][subdir] = contrib
+projects[derivicon][version] = 1.0
