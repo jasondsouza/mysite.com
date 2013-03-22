@@ -11,6 +11,9 @@ projects[mysite][type] = profile
 projects[mysite][download][type] = git
 projects[mysite][download][url] = git://github.com/jasondsouza/mysite.com.git
 
+projects[admin_menu][subdir] = contrib
+projects[admin_menu][version] = 3.0-rc4
+
 projects[ctools][subdir] = contrib
 projects[ctools][version] = 1.2
 
