@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Mysite core feature.
+ */
+
+include_once 'mysite_core.features.inc';

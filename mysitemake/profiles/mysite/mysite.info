@@ -1,0 +1,11 @@
+name = MySite.com
+description = Installation profile for MySite.com
+version = 1.x-dev
+core = 7.x
+
+
+; Information added by drush on 2013-03-22
+version = "unknown"
+project = "mysite"
+datestamp = "1363914857"
+
